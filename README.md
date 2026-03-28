@@ -1,2 +1,1 @@
-# ibeatty.github.io
-Ian Beatty's public website
+Source for ianbeatty.com, built with Jekyll and hosted on GitHub Pages.

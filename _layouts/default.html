@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="{{ '/' | relative_url }}" class="site-title">Ian D. Beatty</a>
+      <nav class="site-nav">
+        <a href="{{ '/research' | relative_url }}"{% if page.url == '/research.html' or page.url == '/research' %} class="active"{% endif %}>Research</a>
+        <a href="{{ '/background' | relative_url }}"{% if page.url == '/background.html' or page.url == '/background' %} class="active"{% endif %}>Background</a>
+        <a href="{{ '/contact' | relative_url }}"{% if page.url == '/contact.html' or page.url == '/contact' %} class="active"{% endif %}>Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>&copy; 2026 Ian D. Beatty</p>
+    </div>
+  </footer>
+</body>
+</html>
