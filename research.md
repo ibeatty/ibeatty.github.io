@@ -7,25 +7,24 @@ title: Research
 
 ## Biosecurity & AI
 
-My current research focuses on computational methods for DNA synthesis screening --- the process by which gene synthesis providers check orders for potentially dangerous sequences before fulfilling them. As AI tools make it increasingly easy to design novel biological agents, robust and scalable screening methods become critical infrastructure for biosecurity.
+My current research focuses on developing improved methods for DNA synthesis screening, the process by which gene synthesis providers check orders for potentially dangerous sequences before fulfilling them. As AI tools become increasingly able to obfuscate known biological agents and design novel ones, robust and scalable screening methods become increasingly critical biosecurity infrastructure.
 
-During my ERA AI×Bio Fellowship at Fourth Eon Bio (2025--26), I developed and evaluated multiple machine learning approaches for classifying sequences in synthesis orders, including compression-based methods, biophysical feature classifiers, and convolutional neural networks operating on raw nucleotide sequences. This work aims to establish viability baselines for ML-based screening triage and generate insights for future development.
+During my ERA AI×Bio Research Fellowship in early 2026, in collaboration with Gary Abel of Fourth Eon Bio, I developed and evaluated multiple information-theoretic and machine learning approaches to the problem of rapidly and efficiently identifying protein-coding sequences within DNA synthesis orders. These approaches all focus on detecting statistical signatures imposed on amino acid sequences by biophysical constraints, and not on patterns imposed on raw nucleotide sequences by biological and evolutionary pressures, for robustness against innocent or adversarial codon-manipulation methods. I explored compression-based methods, biophysically-motivated multi-feature classifiers, and convolutional neural networks. The work is ongoing, but preliminary results are very encouraging.
 
-**Publications & presentations:**
+### publications & presentations:
 
 <!-- TODO: Replace placeholders with actual links when publicly released -->
-- *Project Unmask report/preprint --- pending public release*
-- *Conference poster --- pending public release*
+- [Cambridge Biosecurity Hub AIxBio Symposium Poster](/assets/documents/2026-03-16-ERA-Symposium-Poster.pdf) (March 16, 2026)
 
 I'm actively looking for opportunities to continue and expand this work. If you're working on synthesis screening, metagenomic biosurveillance, or related problems, I'd welcome a [conversation](/contact).
 
-<div class="section-secondary" markdown="1">
+<!-- div class="section-secondary" markdown="1" -->
 
 ## Physics Education Research
 
 Before pivoting to biosecurity, I spent nearly two decades conducting research in physics education. This work spanned technology-enhanced formative assessment, classroom response systems, student self-efficacy, game-inspired pedagogy, and computational physics instruction, resulting in 20+ publications and over $1.5M in NSF funding.
 
-Selected publications:
+### selected publications:
 
 - Beatty, I. D., & Gerace, W. J. (2009). Technology-Enhanced Formative Assessment: A Research-Based Pedagogy for Teaching Science with Classroom Response Technology. *Journal of Science Education and Technology*, 18(2), 146--162.
 - Beatty, I. D., Gerace, W. J., Leonard, W. J., & Dufresne, R. J. (2006). Designing effective questions for classroom response system teaching. *American Journal of Physics*, 74(1), 31--39.

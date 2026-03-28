@@ -5,31 +5,24 @@ title: Background
 
 # Background
 
-I've spent my career applying computational modeling and complex-systems thinking to whatever problem seemed most important at the time. That focus has now landed on biosecurity.
+I've spent my career applying computational modeling and complex-systems thinking to whatever problem seemed most important at the time. That focus has now landed on the AI-biosecurity interface.
 
 ### The through-line
 
-In graduate school at UMass Amherst, I explored chaos theory, complex systems, and artificial neural network dynamics before settling on a dissertation topic: modeling the structure and evolution of students' conceptual knowledge in physics as a complex network. That work was computational at its core, using novel computer-based assessment methods to probe how people organize and restructure their understanding of physics.
+I became a computer nerd when I discovered the Apple II and BASIC in seventh grade, and ever since then I've looked for reasons to learn and apply new software tools and techniques. In hindsight, my various explorations have a common theme: searching for ways solve an unsolved problem by using (and, sometimes, abusing) computational tools and methods in creative, novel ways.
 
-That led to two decades of physics education research --- formative assessment methods, classroom response technology, student self-efficacy, game-inspired pedagogy --- always with a computational and systems-thinking orientation. Along the way I taught computational physics, secured NSF funding, published in physics and education journals, and built interdisciplinary research collaborations.
+In graduate school at UMass Amherst, I explored chaos theory, complex systems, and artificial neural network dynamics before  settling on a dissertation topic: eliciting and modeling the structure of the concept networks at the core of students' and experts' physics knowledge. That work was computational at its core, using novel computer-based assessment methods to probe how people organize their understanding of physics.
+
+That led to two decades of physics education research --- physics-specific tooling for early online homework systems, formative assessment methods, classroom response technology, teacher professional development, game-inspired pedagogy, student self-efficacy --- always with a computational and systems-thinking orientation. Along the way I taught a spectrum of physics courses including various flavors of computational physics, secured grant funding, published in physics and education journals, and built interdisciplinary and international collaborations.
 
 ### The pivot
 
-Starting around 2023, I began intensively studying deep learning and exploring where my computational skills could have the greatest impact. After investigating climate adaptation and AI safety, I concluded that the intersection of AI and biosecurity --- specifically, the threat that AI tools pose by lowering barriers to biological weapons development --- was both critically important and undersupplied with technically skilled researchers.
+Starting around 2020, I began searching for ways to apply my computational and problem-solving skills to the world's most pressing problems, while concurrently developing my understanding of modern deep learning and AI methods. After investigating climate adaptation/resilience and AI safety, I concluded that the intersection of AI and biosecurity --- specifically, understanding and addressing the ways that emerging AI and synthetic biology tools lower barriers to biological weapons development --- was both critically important and undersupplied with technically skilled researchers.
 
-In 2025, I joined the ERA AI×Bio Fellowship program, working with Fourth Eon Bio on machine learning approaches to DNA synthesis screening. I'm now actively seeking opportunities to continue full-time work in biosecurity, whether in synthesis screening, metagenomic biosurveillance, or related areas.
+In early 2026, I participated in the <a href="https://www.aixbiosecurity.com/">ERA AI×Bio Fellowship program</a> in Cambridge UK, working with Gary Abel of <a href="https://fourtheon.bio/">Fourth Eon Bio</a> on information-theoretic and machine learning approaches to <a href="https://www.rand.org/pubs/research_reports/RRA3329-1.html">DNA synthesis screening</a>. Our results were exciting enough that we're continuing work on it post-fellowship.
 
-### Technical skills
+I am actively seeking opportunities to continue full-time work in biosecurity. I'm exploring possibilities in synthesis screening, metagenomic biosurveillance, biohardening via far-UVC, and related areas.
 
-<ul class="skills-list" markdown="0">
-  <li><strong>Programming:</strong> Python (NumPy, SciPy, Pandas, scikit-learn, PyTorch, Biopython), MATLAB, SQL</li>
-  <li><strong>Machine learning:</strong> Deep neural networks (CNNs, sequence models), gradient boosting, compression-based classifiers, feature engineering</li>
-  <li><strong>Domain knowledge:</strong> Bioinformatics, genomics, DNA synthesis screening, protein sequence analysis</li>
-  <li><strong>Research methods:</strong> Experimental design, statistical analysis, scientific writing, peer review</li>
-  <li><strong>Computational modeling:</strong> Dynamical systems, complex networks, Monte Carlo methods</li>
-</ul>
-
-### CV
-
-<!-- TODO: Add actual CV PDF to assets/cv.pdf -->
-Download my full academic CV (PDF): [Curriculum Vitae](/assets/cv.pdf)
+<!-- TODO: Add actual resume and CV PDFs to assets/ -->
+* [Resumé](/assets/documents/resume.pdf)
+* [Academic Curriculum Vitae](/assets/documents/cv.pdf)

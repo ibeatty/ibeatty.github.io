@@ -112,10 +112,10 @@ h2 {
 
 h3 {
   font-size: 1.1rem;
-  font-weight: 600;
+  font-weight: 400;
   margin-top: 2rem;
   margin-bottom: 0.75rem;
-  color: var(--color-text);
+  color: var(--color-text-secondary);
 }
 
 p {
@@ -187,17 +187,29 @@ hr {
 }
 
 .landing .tagline {
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   color: var(--color-text-secondary);
   margin-bottom: 1.5rem;
   font-weight: 400;
+  font-style: italic;
 }
 
 .landing .bio {
   max-width: 520px;
-  margin: 0 auto 2rem;
+  margin: 0 auto 1.5rem;
   font-size: 0.98rem;
+  line-height: 1.5;
+}
+
+.landing .affiliations {
+  max-width: 520px;
+  margin: 0 auto 2rem;
+  font-size: 0.93rem;
   line-height: 1.75;
+}
+
+.landing .affiliations p {
+  margin-bottom: 0.25rem;
 }
 
 .landing .nav-links {
