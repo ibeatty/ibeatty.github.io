@@ -18,9 +18,9 @@ title: Home
   </div>
 
   <div class="nav-links">
-    <a href="{{ '/research' | relative_url }}">Research</a>
-    <span>&middot;</span>
     <a href="{{ '/background' | relative_url }}">Background</a>
+    <span>&middot;</span>
+    <a href="{{ '/research' | relative_url }}">Research</a>
     <span>&middot;</span>
     <a href="{{ '/contact' | relative_url }}">Contact</a>
   </div>

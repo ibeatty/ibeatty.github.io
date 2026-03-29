@@ -44,4 +44,8 @@ and Technology* 18(2), 146–162. [[link](https://doi.org/10.1007/s10956-008-914
 - Beatty, I. D., Gerace, W. J., Leonard, W. J., & Dufresne, R. J. (2006). Designing effective questions for classroom response system teaching. *American Journal of Physics*, 74(1), 31--39. [[link](https://doi.org/10.1119/1.2121753)]
 - Beatty, I. D., & Gerace, W. J. (2002). Probing physics students' conceptual knowledge structures through term association. *American Journal of Physics*, 70(7), 750--758. [[link](https://doi.org/10.1119/1.1482067)]
 
-[Google Scholar profile](https://scholar.google.com/citations?user=5SAnnv4AAAAJ&hl=en)
+<div class="nav-links">
+    <a href="/assets/documents/Beatty_CV.pdf">Academic <i>Curriculum Vitae</i></a>
+    <span>&middot;</span>
+    <a href="https://scholar.google.com/citations?user=5SAnnv4AAAAJ">Google Scholar profile</a>
+</div>

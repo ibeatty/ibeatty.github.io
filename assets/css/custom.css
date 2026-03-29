@@ -212,14 +212,14 @@ hr {
   margin-bottom: 0.25rem;
 }
 
-.landing .nav-links {
+.nav-links {
   display: flex;
   justify-content: center;
   gap: 1.5rem;
   font-size: 0.95rem;
 }
 
-.landing .nav-links a {
+.nav-links a {
   color: var(--color-accent);
   font-weight: 500;
 }

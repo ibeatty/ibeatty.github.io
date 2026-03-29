@@ -23,6 +23,8 @@ In early 2026, I participated in the <a href="https://www.aixbiosecurity.com/">E
 
 I am actively seeking opportunities to continue full-time work in biosecurity. I'm exploring possibilities in synthesis screening, metagenomic biosurveillance, biohardening via far-UVC, and related areas.
 
-<!-- TODO: Add actual resume and CV PDFs to assets/ -->
-* [Resumé](/assets/documents/resume.pdf)
-* [Academic Curriculum Vitae](/assets/documents/cv.pdf)
+<!-- TODO: Add actual resume PDF to assets/ -->
+<div class="nav-links">
+    <a href="/assets/documents/resume.pdf">Resumé</a>
+</div>
+
