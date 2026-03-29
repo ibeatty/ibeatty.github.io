@@ -11,6 +11,6 @@ The best way to reach me is by email.
 
 **LinkedIn:** [https://www.linkedin.com/in/ibeatty/](https://www.linkedin.com/in/ibeatty/)
 
-**Bluesky:** [‪@ianbeatty.com‬](https://bsky.app/profile/ianbeatty.com)
+**Bluesky:** [@ianbeatty.com](https://bsky.app/profile/ianbeatty.com)
 
-I'm interested in conversations about biosecurity research, DNA synthesis screening, metagenomic surveillance, and career opportunities in the biosecurity space.
+I'm interested in conversations about biosecurity research, DNA synthesis screening, metagenomic surveillance, dual-use risks of AI-powered biological tools, modeling the effects of biohardening and rapid countermeasures on pandemic outbreak, and career opportunities in the biosecurity space.
