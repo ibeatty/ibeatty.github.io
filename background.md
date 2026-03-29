@@ -25,6 +25,6 @@ I am actively seeking opportunities to continue full-time work in biosecurity. I
 
 <!-- TODO: Add actual resume PDF to assets/ -->
 <div class="nav-links">
-    <a href="/assets/documents/resume.pdf">Resumé</a>
+    <a href="/assets/documents/Beatty_resume.pdf">Resumé</a>
 </div>
 
