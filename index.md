@@ -7,9 +7,9 @@ title: Home
   <img src="{{ '/assets/images/headshot.jpg' | relative_url }}" alt="Ian D. Beatty" class="headshot">
 
   <h1>Ian D. Beatty, PhD</h1>
-  <p class="tagline">computational physicist &#10233; biosecurity researcher</p>
+  <p class="tagline">computational physicist &nbsp; ⬩ &nbsp; biosecurity researcher</p>
 
-  <p class="bio">I use AI, machine learning, data science, computational modeling, and creative problem-solving to help defend against AI-enabled biological threats and catastrophic pandemics. At present, I'm helping to improve <a href="https://www.rand.org/pubs/research_reports/RRA3329-1.html">DNA synthesis screening</a> methods.</p>
+  <p class="bio">I use AI, machine learning, data science, computational modeling, and creative problem-solving to develop safeguards against AI-enabled biological threats and catastrophic pandemics. At present, I'm helping to improve <a href="https://www.rand.org/pubs/research_reports/RRA3329-1.html">DNA synthesis screening</a> methods.</p>
 
   <div class="affiliations">
     <p>Research Affiliate, <a href="https://fourtheon.bio/">Fourth Eon Bio</a></p>
